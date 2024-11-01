@@ -1,0 +1,6 @@
+name: intuiting-machine
+description: A machine knowing or understanding something because of a 'feeling' rather than because of facts or what someone has told.
+model_names:
+    - name_of_the_model_one
+    - name_of_the_model_two
+    - name_of_the_model_three
