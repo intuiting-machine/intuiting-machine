@@ -1,10 +1,10 @@
-# Name of Machine
-Explanation of the Machine
+# Intuiting Machine
+"Intuit" - know or understand something because of a feeling that you have rather than because of facts or what someone has told you.
 <pre>
-  pip install name-of-the-machine
+  pip install intuiting-machine
 </pre>
 Then:
 ```Python
   # Python
-  import name_of_the_machine
+  import intuiting_machine
 ```
